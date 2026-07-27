@@ -241,7 +241,7 @@ E queremos que você faça parte dela.
 
 ## 🎨 Artist
 
-**`Dubladora & Game Art`** <br> **`Game Desginer`** 
+**`Dubladora & Game Art`** <br> **`Game Designer`** 
 
 </td>
 
