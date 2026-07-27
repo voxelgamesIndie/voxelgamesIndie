@@ -237,7 +237,7 @@ E queremos que você faça parte dela.
 
 <td align="center">
 
-<img src="paula.jpeg" width="170"/>
+<img src="paula.jpeg" width="170" height="270" />
 
 ## 🎨 Artist
 
