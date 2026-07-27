@@ -226,7 +226,7 @@ E queremos que você faça parte dela.
 
 <td align="center">
 
-<img src="" width="170"/>
+<img src="nilton.jpeg" width="170"/>
 
 ## 👨‍💻 Developer
 
@@ -237,7 +237,7 @@ E queremos que você faça parte dela.
 
 <td align="center">
 
-<img src="" width="170"/>
+<img src="paula.jpeg" width="170"/>
 
 ## 🎨 Artist
 
@@ -247,7 +247,7 @@ E queremos que você faça parte dela.
 
 <td align="center">
 
-<img src="" width="170"/>
+<img src="ingrid.jpeg" width="170"/>
 
 ## 🎮 Game Designer
 
