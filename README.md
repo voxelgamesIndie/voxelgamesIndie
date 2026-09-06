@@ -25,9 +25,9 @@
 
 STATUS............. ONLINE
 
-ENGINE............. UNITY
+ENGINE............. GDevelop
 
-PIXEL ART.......... ACTIVE
+FlatDesign Vetorial.......... ACTIVE
 
 AI SYSTEM.......... ENABLED
 
@@ -77,7 +77,7 @@ Nossa missão é transformar ideias em universos vivos.
 ║                                                            ║
 ║  🚀  CREATE IMMERSIVE EXPERIENCES                          ║
 ║  🎮  BUILD MEMORABLE GAMES                                ║
-║  🎨  CRAFT BEAUTIFUL PIXEL ART                            ║
+║  🎨  CRAFT BEAUTIFUL Vetorial ART                         ║
 ║  🤖  USE AI TO BOOST CREATIVITY                           ║
 ║  🌎  SHARE STORIES WITH THE WORLD                         ║
 ║  💜  INSPIRE PLAYERS THROUGH PASSION                      ║
@@ -91,7 +91,7 @@ Nossa missão é transformar ideias em universos vivos.
 
 <div align="center">
 
-| 🚀 Innovation | 🎮 Gameplay | 🎨 Pixel Art |
+| 🚀 Innovation | 🎮 Gameplay | 🎨 Vetorial Flat Design Art |
 |:-------------:|:----------:|:------------:|
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
@@ -112,7 +112,7 @@ Nossa missão é transformar ideias em universos vivos.
 CREATE AMAZING GAMES
 
 ████████████████████████░░░ 90%
-PIXEL ART EXCELLENCE
+Vetorial Flat Design ART EXCELLENCE
 
 ███████████████████████████ 100%
 GAMEPLAY EXPERIENCE
@@ -142,7 +142,7 @@ Nosso objetivo é transportar você para mundos cheios de vida, onde cada aventu
 
 * 🎮 Gameplay divertido, envolvente e acessível.
 * 🌍 Mundos ricos em detalhes e personalidade.
-* 🎨 Arte em Pixel Art produzida com carinho e qualidade.
+* 🎨 Arte em Flat Design Vetorial Art produzida com carinho e qualidade.
 * 🦴 Animações fluidas que dão vida aos personagens.
 * 💡 Mecânicas criativas que incentivam a exploração.
 * 🤖 Desenvolvimento impulsionado por tecnologias modernas e Inteligência Artificial.
@@ -180,7 +180,7 @@ Estamos constantemente evoluindo e buscando novos desafios. Nossos principais ob
 * 🚀 Desenvolver jogos independentes com qualidade profissional.
 * 🌍 Levar nossos jogos para jogadores de diferentes países e plataformas.
 * 🎮 Criar experiências divertidas, envolventes e inesquecíveis.
-* 🎨 Aperfeiçoar continuamente nossa arte em Pixel Art e animações.
+* 🎨 Aperfeiçoar continuamente nossa arte em Vetorial Flat Designer Art e animações.
 * 🦴 Utilizar as melhores ferramentas para entregar jogos cada vez melhores.
 * 🤖 Integrar Inteligência Artificial aos nossos processos criativos e de desenvolvimento.
 * 💡 Inovar constantemente com novas mecânicas, ideias e tecnologias.
@@ -230,12 +230,13 @@ E queremos que você faça parte dela.
 
 ## 👨‍💻 Developer
 
-**`Game Art & Programador`** <br>
-**`Game Designer`**
+**`Game Art | Programador`** <br>
+**`Game Designer`** <br>
+**`CEO & Game Sound`**
 
 </td>
 
-<td align="center">
+<!-- <td align="center">
 
 <img src="paula01.jpeg" width="170" height="270" />
 
@@ -258,7 +259,7 @@ E queremos que você faça parte dela.
 </tr>
 </table>
 
-</div>
+</div> -->
 
 ---
 <p align="center">
@@ -266,24 +267,7 @@ E queremos que você faça parte dela.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:00FFA3,100:00F5FF&height=90&section=header&text=⚙%20DAILY%20TOOLS&fontSize=42&fontColor=ffffff&animation=blink"/>
 
 </p>
-<!-- # ⚙ DAILY TOOLS -->
 
-<!-- <div align="center">
-
-| Ferramenta | Tecnologia |
-|------------|------------|
-| 🎮 | Unity |
-| 🎨 | Aseprite |
-| 🎨 | LibreSprite |
-| 🎨 | Piskel |
-| 🎨 | Pyxel Edit |
-| 🦴 | Dragon Bones |
-| 🧊 | Blender |
-| 🖌 | Inkscape |
-| 🤖 | ChatGPT |
-| ✨ | Gemini |
-
-</div> -->
 <div align="center">
 
 ## ⚡ DEVELOPMENT ECOSYSTEM
@@ -294,10 +278,8 @@ E queremos que você faça parte dela.
 
 | 🛰️ Division | ⚡ Software | 🎯 Purpose |
 |:-----------:|:------------|:-----------|
-| 🎮 Game Engine | **Unity** | Gameplay & Development |
-| 🎨 Pixel Art | **Aseprite • LibreSprite • Piskel • Pyxel Edit** | Sprites & Tiles |
-| 🦴 Animation | **DragonBones** | Skeletal Animation |
-| 🧊 3D Content | **Blender** | Modeling & Rendering |
+| 🎮 Game Engine | **GDevelop 5** | Gameplay & Development |
+| 🎨 Vetorial Flat Design Art | **Inkscape** , **Tiled** |
 | 🖌 Vector Graphics | **Inkscape** | UI & Illustrations |
 | 🤖 AI Assistant | **ChatGPT • Gemini** | Productivity & Creativity |
 
@@ -316,96 +298,14 @@ E queremos que você faça parte dela.
 ---
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=90&section=header&text=💻%20TECHNOLOGIES&fontSize=42&fontColor=00FFFF&animation=twinkling"/>
 
 </p>
 <!-- # 💻 TECHNOLOGIES -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode,blender"/>
 
-<br>
 
-<img src="https://img.shields.io/badge/Aseprite-00F7FF?style=for-the-badge&logo=aseprite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inkscape-6A00FF?style=for-the-badge&logo=inkscape&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pixel%20Art-FF00E6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00FFC8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Game%20Design-FFD500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Level%20Design-FF5E00?style=for-the-badge"/>
-
-</div>
-
----
-<!-- 
-# 🎨 ART PIPELINE
-
-```text
-IDEA
-
-   │
-
-   ▼
-
-CONCEPT
-
-   │
-
-   ▼
-
-PIXEL ART
-
-   │
-
-   ▼
-
-ANIMATION
-
-   │
-
-   ▼
-
-UNITY
-
-   │
-
-   ▼
-
-GAMEPLAY
-
-   │
-
-   ▼
-
-PUBLISH
-```
--->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Unity+Engine;C%23+Programming;Pixel+Art;AI+Tools;Game+Development;Build+Pipeline" />
-
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CYBER+PIPELINE;%F0%9F%9A%80+DEVELOPMENT+WORKFLOW;%F0%9F%A4%96+BUILD+SYSTEM;%F0%9F%94%A5+VOXE+GAMES+ENGINE" />
-
-</div>
-
----
-
-```mermaid
-flowchart LR
-
-A(Idea) --> B(Game Design)
-B --> C(Pixel Art)
-C --> D(Animation)
-D --> E(Unity)
-E --> F(C#)
-F --> G(AI Tools)
-G --> H(Optimization)
-H --> I(Publish)
-```
-
----
 <p align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:00F5FF,30:7B2FF7,60:FF0080,100:00F5FF&text=⚡%20VOXEL%20CORE%20SYSTEM&fontSize=42&fontColor=FFFFFF&animation=twinkling"/>
@@ -451,19 +351,19 @@ H --> I(Publish)
 
 ══════════════════════════════════════════════════════════════════════════════════════════════
 
-PROGRAMMING      ◢████████████████████░░░░░◣ 85%
-PIXEL ART        ◢██████████████████████░░░◣ 90%
-ANIMATION        ◢████████████████████░░░░░◣ 85%
-UNITY            ◢█████████████████████░░░░◣ 88%
-AI TOOLS         ◢███████████████████████░░◣ 95%
-CREATIVITY       ◢█████████████████████████◣100%
+PROGRAMMING           ◢████████████████████░░░░░◣ 85%
+Vetorial Flat Design  ◢██████████████████████░░░◣ 90%
+ANIMATION             ◢████████████████████░░░░░◣ 85%
+GDevelop 5            ◢█████████████████████░░░░◣ 88%
+AI TOOLS              ◢███████████████████████░░◣ 95%
+CREATIVITY            ◢█████████████████████████◣100%
 
 ══════════════════════════════════════════════════════════════════════════════════════════════
 
 ◉ STATUS ........ ONLINE
 ◉ STUDIO ........ VOXEL GAMES
-◉ ENGINE ........ UNITY
-◉ STYLE ......... PIXEL ART
+◉ ENGINE ........ GDevelop
+◉ STYLE ......... Vetorial ART
 ◉ AI ............ ACTIVE
 ◉ TARGET ........ NEXT LEVEL
 ```
