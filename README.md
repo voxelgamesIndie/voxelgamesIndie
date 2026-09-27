@@ -278,7 +278,7 @@ E queremos que você faça parte dela.
 
 | 🛰️ Division | ⚡ Software | 🎯 Purpose |
 |:-----------:|:------------|:-----------|
-| 🎮 Game Engine | **GDevelop 5** | Gameplay & Development |
+| 🎮 Game Engine | **GDevelop 5, game maker studio 2** | Gameplay & Development |
 | 🎨 Vetorial Flat Design Art | **Inkscape** , **Tiled** |
 | 🖌 Vector Graphics | **Inkscape** | UI & Illustrations |
 | 🤖 AI Assistant | **ChatGPT • Gemini** | Productivity & Creativity |
