@@ -245,7 +245,7 @@ E queremos que você faça parte dela.
 **`Dubladora & Game Art`** <br> **`Game Designer`** 
 
 </td>
-
+-->
 <td align="center">
 
 <img src="ingrid.jpeg" width="170"/>
@@ -259,7 +259,7 @@ E queremos que você faça parte dela.
 </tr>
 </table>
 
-</div> -->
+</div>
 
 ---
 <p align="center">
