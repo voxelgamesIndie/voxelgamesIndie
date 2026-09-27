@@ -354,7 +354,8 @@ E queremos que você faça parte dela.
 PROGRAMMING           ◢████████████████████░░░░░◣ 85%
 Vetorial Flat Design  ◢██████████████████████░░░◣ 90%
 ANIMATION             ◢████████████████████░░░░░◣ 85%
-GDevelop 5            ◢█████████████████████░░░░◣ 88%
+GDevelop 5            ◢█████████████████████░░░░◣ 100%
+Game maker Studio2    ◢█████████████████████░░░░◣ 40%
 AI TOOLS              ◢███████████████████████░░◣ 95%
 CREATIVITY            ◢█████████████████████████◣100%
 
@@ -362,7 +363,7 @@ CREATIVITY            ◢██████████████████�
 
 ◉ STATUS ........ ONLINE
 ◉ STUDIO ........ VOXEL GAMES
-◉ ENGINE ........ GDevelop
+◉ ENGINE ........ GDevelop , Game maker Studio2
 ◉ STYLE ......... Vetorial ART
 ◉ AI ............ ACTIVE
 ◉ TARGET ........ NEXT LEVEL
